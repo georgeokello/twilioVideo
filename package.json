@@ -1,0 +1,23 @@
+{
+  "name": "eyestreamvideoroomand-stream",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "twilio-run",
+    "deploy": "twilio-run deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeokello/twilioVideoandStream.git"
+  },
+  "author": "george",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeokello/twilioVideoandStream/issues"
+  },
+  "homepage": "https://github.com/georgeokello/twilioVideoandStream#readme",
+  "dependencies": {
+    "twilio": "^3.74.0"
+  }
+}
